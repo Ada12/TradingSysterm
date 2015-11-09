@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52724075">
-              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            <state vertical-scroll-proportion="-4.032258">
+              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -42,23 +42,23 @@
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/cart.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.9456521">
-              <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+              <caret line="184" column="25" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="25" />
               <folding>
-                <marker date="1446990608725" expanded="true" signature="5985:7246" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6016:7246" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6052:6079" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6052:7141" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6162:7123" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6266:6710" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6286:6372" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6392:6549" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6569:6689" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="6750:7099" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="7177:7246" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="7217:7246" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="7319:7424" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="7319:7466" placeholder="..." />
-                <marker date="1446990608725" expanded="true" signature="7512:7668" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6134:7395" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6165:7395" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6201:6228" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6201:7290" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6311:7272" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6415:6859" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6435:6521" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6541:6698" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6718:6838" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="6899:7248" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="7326:7395" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="7366:7395" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="7468:7573" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="7468:7615" placeholder="..." />
+                <marker date="1447039186162" expanded="true" signature="7661:7817" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -67,9 +67,10 @@
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="113" column="60" selection-start-line="113" selection-start-column="60" selection-end-line="113" selection-end-column="61" />
+            <state vertical-scroll-proportion="-6.6666665">
+              <caret line="181" column="37" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="37" />
               <folding>
+                <element signature="e#2960#2976#0" expanded="true" />
                 <element signature="e#3167#3183#0" expanded="true" />
                 <element signature="e#3575#3591#0" expanded="true" />
                 <element signature="e#3911#3927#0" expanded="true" />
@@ -94,17 +95,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/js/products.js">
+      <file leaf-file-name="product.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/product.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="66" selection-end-column="15" />
-              <folding>
-                <marker date="1446713656475" expanded="true" signature="1144:1202" placeholder="..." />
-                <marker date="1446713656475" expanded="true" signature="1158:1202" placeholder="..." />
-                <marker date="1446713656475" expanded="true" signature="1544:1725" placeholder="..." />
-                <marker date="1446713656475" expanded="true" signature="1582:1725" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.994709">
+              <caret line="377" column="69" selection-start-line="377" selection-start-column="69" selection-end-line="377" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,7 +139,6 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/store_locator.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/products.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/products_2.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/pages/product.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/product_2.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/index_3.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
@@ -152,8 +147,9 @@
         <option value="$PROJECT_DIR$/web/css/isotope.css" />
         <option value="$PROJECT_DIR$/web/css/owl.carousel.css" />
         <option value="$PROJECT_DIR$/src/main/java/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/pages/cart.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/cart.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/product.jsp" />
       </list>
     </option>
   </component>
@@ -188,7 +184,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1924" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -214,8 +210,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -863,32 +859,33 @@
       <workItem from="1446607259338" duration="15092000" />
       <workItem from="1446690492199" duration="26617000" />
       <workItem from="1446880868587" duration="11426000" />
-      <workItem from="1446968699046" duration="14969000" />
+      <workItem from="1446968699046" duration="15341000" />
+      <workItem from="1447037250255" duration="2711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74077000" />
+    <option name="totallyTimeSpent" value="77160000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3030623" sideWeight="0.28862214" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3030623" sideWeight="0.2914046" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3030623" sideWeight="0.71137786" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3030623" sideWeight="0.7085954" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18789144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18763103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -938,6 +935,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
+            <element signature="e#2960#2976#0" expanded="true" />
             <element signature="e#3167#3183#0" expanded="true" />
             <element signature="e#3575#3591#0" expanded="true" />
             <element signature="e#3911#3927#0" expanded="true" />
@@ -982,6 +980,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#2960#2976#0" expanded="true" />
             <element signature="e#3167#3183#0" expanded="true" />
             <element signature="e#3575#3591#0" expanded="true" />
             <element signature="e#3911#3927#0" expanded="true" />
@@ -1026,6 +1025,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
+            <element signature="e#2960#2976#0" expanded="true" />
             <element signature="e#3167#3183#0" expanded="true" />
             <element signature="e#3575#3591#0" expanded="true" />
             <element signature="e#3911#3927#0" expanded="true" />
@@ -1094,6 +1094,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
+            <element signature="e#2960#2976#0" expanded="true" />
             <element signature="e#3167#3183#0" expanded="true" />
             <element signature="e#3575#3591#0" expanded="true" />
             <element signature="e#3911#3927#0" expanded="true" />
@@ -1227,14 +1228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/product.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34343433">
-          <caret line="989" column="0" selection-start-line="989" selection-start-column="0" selection-end-line="989" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/product_2.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.74747473">
@@ -1318,19 +1311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="66" selection-end-column="15" />
-          <folding>
-            <marker date="1446713656475" expanded="true" signature="1144:1202" placeholder="..." />
-            <marker date="1446713656475" expanded="true" signature="1158:1202" placeholder="..." />
-            <marker date="1446713656475" expanded="true" signature="1544:1725" placeholder="..." />
-            <marker date="1446713656475" expanded="true" signature="1582:1725" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.533334">
@@ -1371,7 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1382,11 +1361,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.032258">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9456521">
+          <caret line="184" column="25" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="25" />
+          <folding>
+            <marker date="1447039186162" expanded="true" signature="6134:7395" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6165:7395" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6201:6228" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6201:7290" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6311:7272" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6415:6859" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6435:6521" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6541:6698" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6718:6838" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="6899:7248" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="7326:7395" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="7366:7395" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="7468:7573" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="7468:7615" placeholder="..." />
+            <marker date="1447039186162" expanded="true" signature="7661:7817" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36605656">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding>
+            <marker date="1446713656475" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446713656475" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446713656475" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446713656475" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="113" column="60" selection-start-line="113" selection-start-column="60" selection-end-line="113" selection-end-column="61" />
+        <state vertical-scroll-proportion="-6.6666665">
+          <caret line="181" column="37" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="37" />
           <folding>
+            <element signature="e#2960#2976#0" expanded="true" />
             <element signature="e#3167#3183#0" expanded="true" />
             <element signature="e#3575#3591#0" expanded="true" />
             <element signature="e#3911#3927#0" expanded="true" />
@@ -1410,34 +1435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/cart.jsp">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/product.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9456521">
-          <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
-          <folding>
-            <marker date="1446990608725" expanded="true" signature="5985:7246" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6016:7246" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6052:6079" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6052:7141" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6162:7123" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6266:6710" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6286:6372" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6392:6549" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6569:6689" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="6750:7099" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="7177:7246" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="7217:7246" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="7319:7424" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="7319:7466" placeholder="..." />
-            <marker date="1446990608725" expanded="true" signature="7512:7668" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52724075">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.994709">
+          <caret line="377" column="69" selection-start-line="377" selection-start-column="69" selection-end-line="377" selection-end-column="69" />
           <folding />
         </state>
       </provider>

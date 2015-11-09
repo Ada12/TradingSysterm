@@ -99,6 +99,8 @@
       map["citrus fruit"] = "$7.99*images/men/accessories/000095-0014_2.jpg";
       map["other vegetables"] = "$35.00*images/men/shoes/000312-2259_1.jpg";
       map["whole milk"] = "$9.98*images/men/accessories/255615-0014_1.jpg";
+      map["rolls buns"] = "$11.20*images/women/jeans/220008-0054_1.jpg";
+      map["sausage"] = "$29.80*images/women/accessories/582120-0029_1.jpg";
       return map;
     }
 

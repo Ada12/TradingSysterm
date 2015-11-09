@@ -352,13 +352,13 @@
 
             <div class="product-preview">
               <div class="big-image">
-                <a href="images/women/skirt/103314-0735_1_o.jpg" data-toggle="lightbox">
-                  <img src="images/women/skirt/103314-0735_1_t.jpg" alt="" />
+                <a href="images/men/jacket/271865-0286_1.jpg" data-toggle="lightbox">
+                  <img src="images/men/jacket/271865-0286_1.jpg" alt="" />
                 </a>
               </div>
               <ul class="thumbs unstyled clearfix">
-                <li><a href="images/women/skirt/103314-0735_1_o.jpg"><img src="images/women/skirt/103314-0735_1_t.jpg" alt="" /></a></li>
-                <li><a href="images/women/skirt/103314-0735_2_o.jpg"><img src="images/women/skirt/103314-0735_2_t.jpg" alt="" /></a></li>
+                <li><a href="images/women/skirt/103314-0735_1_o.jpg"><img src="images/men/jacket/271865-0286_1.jpg" alt="" /></a></li>
+                <li><a href="images/women/skirt/103314-0735_2_o.jpg"><img src="images/women/dress/256479-0014_1.jpg" alt="" /></a></li>
               </ul>
             </div>
 
@@ -369,11 +369,11 @@
           <div class="col-xs-12 col-sm-8">
             <section class="product-details add-cart">
               <header class="entry-header">
-                <h2 class="entry-title uppercase">Sexy Skirt</h2>
+                <h2 class="entry-title uppercase">cooking chocolate</h2>
               </header>
               <article class="entry-content">
                 <figure>
-                  <span class="entry-price inline-middle">$120</span>
+                  <span class="entry-price inline-middle">$25.00</span>
                   <div class="rate-bar inline-middle">
                     <input type="range" value="4.5" step="0.5" id="backing0" />
                     <div class="rateit" data-rateit-backingfld="#backing0" data-rateit-starwidth="12" data-rateit-starheight="12" data-rateit-resetable="false"  data-rateit-ispreset="true" data-rateit-min="0" data-rateit-max="5"></div>

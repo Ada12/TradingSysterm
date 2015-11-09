@@ -196,7 +196,7 @@ public class MainController {
         {
             Map<String, String> rule1 = new HashMap<String, String>();
             rule1.put("lhs", "ready soups");
-            rule1.put("rhs", "rolls/buns");
+            rule1.put("rhs", "rolls buns");
             rule1.put("support", "0.0009150991");
             rule1.put("confidence", "0.5000000");
             rule1.put("lift", "2.718353");

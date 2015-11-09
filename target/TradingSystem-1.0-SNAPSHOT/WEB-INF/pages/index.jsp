@@ -69,7 +69,6 @@
               result = result + rules[rule]['rhs'] + "_";
             }
             $.cookie('rec' ,result);
-            alert(result);
           }
         });
       }
